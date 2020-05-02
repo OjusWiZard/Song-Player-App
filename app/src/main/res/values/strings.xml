@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SongPlayer</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="choose_song">Choose Song:</string>
+    <string name="song_progress">Song Progress</string>
+    <string name="add_song">Add Song</string>
+    <string name="_0_00">0:00</string>
+</resources>
